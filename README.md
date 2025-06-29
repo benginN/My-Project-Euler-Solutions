@@ -1,2 +1,2 @@
 # My-Project-Euler-Solutions
-My own solutions for Project Euler questions, starting at problem 952.
+My own solutions for Project Euler questions, starting at problem 952. Username: obepozdemir
